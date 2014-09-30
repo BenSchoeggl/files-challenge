@@ -1,6 +1,8 @@
 files-challenge
 ===============
-An incredible website about Indiana Jones
+This was a simple challege to learn the basics of git and GitHub
+
+I produced an incredible website about Indiana Jones
 
 Dear TA,
 
